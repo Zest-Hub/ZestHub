@@ -1,0 +1,33 @@
+.Bgi{
+    background-image: url(/image/R\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    position: absolute;
+    top: 20%;
+    left: 48%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+    color: white;
+}
+
+.Download{
+    position: absolute;
+    top: 40%;
+    left: 49%;
+}
+
+.DownloadStyle{
+    width: 100px;
+    height: 40px;
+    border: 0px;
+    background-color: transparent;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.Hover1:hover {
+border-bottom: 3px solid white ;
+}
